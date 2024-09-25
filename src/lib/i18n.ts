@@ -7,6 +7,8 @@ const strategy = PrefixStrategy<AvailableLanguageTag>({
   prefixDefault: "never",
   pathnames: {
     "/about": m.pathname_about,
+    "/blog": m.pathname_blog_list,
+    "/blog/[id]": m.pathname_blog_details,
   },
 });
 

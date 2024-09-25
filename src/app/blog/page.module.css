@@ -1,0 +1,7 @@
+.card {
+  display: block;
+  border: 1px solid var(--foreground);
+  border-radius: var(--space-base);
+  padding: calc(var(--space-base) * 4);
+  margin: calc(var(--space-base) * 2);
+}

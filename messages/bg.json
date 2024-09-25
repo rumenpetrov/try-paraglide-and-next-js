@@ -9,5 +9,11 @@
     "page_home_description": "Това е началната страница",
     "page_home_deploy_action": "Разположете сега",
     "page_home_read_docs_action": "Прочетете нашите документи",
-    "hello_world": "Здравей {name}!"
+    "hello_world": "Здравей {name}!",
+    "pathname_blog_details": "/блог/[id]",
+    "page_blog_details_title": "Блог публикация",
+    "page_blog_details_description": "Това е блог публикация",
+    "pathname_blog_list": "/блог",
+    "page_blog_list_title": "Блог",
+    "page_blog_list_description": "Това е блог страница"
 }

@@ -12,6 +12,8 @@ export default function About() {
   return (
     <Page>
       <h1>{m.page_about_title()}</h1>
+
+      <p>{m.page_about_description()}</p>
     </Page>
   );
 }

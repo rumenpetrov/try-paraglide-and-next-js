@@ -9,5 +9,11 @@
     "page_home_description": "This is the home page",
     "page_home_deploy_action": "Deploy now",
     "page_home_read_docs_action": "Read our docs",
-    "hello_world": "Hello {name}!"
+    "hello_world": "Hello {name}!",
+    "pathname_blog_details": "/blog/[id]",
+    "page_blog_details_title": "Blog",
+    "page_blog_details_description": "This is the blog list page",
+    "pathname_blog_list": "/blog",
+    "page_blog_list_title": "Blog",
+    "page_blog_list_description": "This is the blog post page"
 }

@@ -8,6 +8,8 @@ export default function PrimaryNavigation() {
       <Link href="/">{m.page_home_title()}</Link>
 
       <Link href="/about">{m.page_about_title()}</Link>
+
+      <Link href="/blog">{m.page_blog_list_title()}</Link>
     </nav>
   );
 }
