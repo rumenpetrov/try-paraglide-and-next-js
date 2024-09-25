@@ -1,0 +1,13 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "steps_one": "Get started by editing \"src/app/page.tsx\".",
+    "steps_two": "Save and see your changes instantly.",
+    "pathname_about": "/about",
+    "page_about_title": "About",
+    "page_home_title": "Home",
+    "page_about_description": "This is the about us page",
+    "page_home_description": "This is the home page",
+    "page_home_deploy_action": "Deploy now",
+    "page_home_read_docs_action": "Read our docs",
+    "hello_world": "Hello {name}!"
+}

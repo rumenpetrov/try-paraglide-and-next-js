@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: calc(var(--space-base) * 4);
+  border-bottom: 1px solid var(--foreground);
+}

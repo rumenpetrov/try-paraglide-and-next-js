@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+  padding: 0 var(--space-base);
+}
+
+.menu a {
+  display: block;
+  padding: var(--space-base);
+  text-transform: uppercase;
+}

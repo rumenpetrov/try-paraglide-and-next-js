@@ -1,0 +1,13 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "steps_one": "Започнете, като редактирате \"src/app/page.tsx\".",
+    "steps_two": "Запазете и вижте промените си незабавно.",
+    "pathname_about": "/за-нас",
+    "page_about_title": "За нас",
+    "page_home_title": "Начало",
+    "page_about_description": "Това е страницата За нас",
+    "page_home_description": "Това е началната страница",
+    "page_home_deploy_action": "Разположете сега",
+    "page_home_read_docs_action": "Прочетете нашите документи",
+    "hello_world": "Здравей {name}!"
+}
