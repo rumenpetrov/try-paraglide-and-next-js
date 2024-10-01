@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { LanguageProvider } from "@inlang/paraglide-next";
 import { languageTag } from "@/paraglide/runtime.js";
 import * as m from "@/paraglide/messages.js";
@@ -42,6 +43,8 @@ export default function RootLayout({
           </header>
 
           {children}
+
+          <SpeedInsights />
         </body>
       </html>
     </LanguageProvider>

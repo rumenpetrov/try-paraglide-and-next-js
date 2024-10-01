@@ -10,18 +10,19 @@
     "lint": "npx @inlang/cli lint --project project.inlang"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
+    "@inlang/paraglide-next": "0.5.2",
+    "@vercel/speed-insights": "^1.0.12",
     "next": "14.2.13",
-    "@inlang/paraglide-next": "0.5.2"
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@inlang/paraglide-js": "1.11.2",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.2.13",
-    "@inlang/paraglide-js": "1.11.2"
+    "typescript": "^5"
   }
 }
